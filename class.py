@@ -23,7 +23,7 @@ class Student(object):
     def get_name(self):
         return self.__name
 
-    def get_name(self):
+    def get_score(self):
         return self.__score
 
     def set_score(self, score):
